@@ -9,15 +9,16 @@
   </a>
 </p>
 
-- :mortar_board: I have a `Higher National Diploma` in `Multiplatform Application Development`.
-- :briefcase: Currently working at `Stemdo` as part of the `DevOps` team.
-- :wrench: Involved in automating `CI/CD pipelines`, managing `infrastructure as code`, and ensuring smooth `deployment workflows`.
-- :whale: Working with tools like `Docker`, `Kubernetes`, `GitHub Actions`, and `Terraform`.
-- :cloud: Exploring and deploying solutions in `Cloud Computing` environments.
-- :technologist: I enjoy building software that solves real-world problems and improves developer workflows.
-- :computer: Passionate about `Java`, `Android development`, and `desktop applications`.
+7- :mortar_board: I hold a `Higher National Diploma` in `Multiplatform Application Development`.
+- :briefcase: Currently doing my `internship` at `Stemdo` as part of the `DevOps` team.
+- :wrench: Learning to automate `CI/CD pipelines`, manage `infrastructure as code`, and participate in continuous `deployment workflows`.
+- :whale: Getting hands-on experience with tools like `Docker`, `Kubernetes`, `GitHub Actions`, and `Terraform`.
+- :cloud: Exploring `Cloud Computing` environments and best practices for deploying services.
+- :technologist: I'm passionate about learning how to build useful software that solves real-world problems.
+- :computer: Especially interested in `Java`, `Android development`, and `desktop applications`.
 - :student: Constantly learning about `mobile apps`, `databases`, `web development`, and `cloud-native technologies`.
-- :nerd_face: Curious by nature, always exploring `new technologies` and best practices.
+
+
 
  
 
