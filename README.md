@@ -9,17 +9,15 @@
   </a>
 </p>
 
-<!--
-**RjimenezL/RjimenezL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :mortar_board: I have a `Higher National Diploma` in `Multiplatform Application Development`.
+- :briefcase: Currently working at `Stemdo` as part of the `DevOps` team.
+- :wrench: Involved in automating `CI/CD pipelines`, managing `infrastructure as code`, and ensuring smooth `deployment workflows`.
+- :whale: Working with tools like `Docker`, `Kubernetes`, `GitHub Actions`, and `Terraform`.
+- :cloud: Exploring and deploying solutions in `Cloud Computing` environments.
+- :technologist: I enjoy building software that solves real-world problems and improves developer workflows.
+- :computer: Passionate about `Java`, `Android development`, and `desktop applications`.
+- :student: Constantly learning about `mobile apps`, `databases`, `web development`, and `cloud-native technologies`.
+- :nerd_face: Curious by nature, always exploring `new technologies` and best practices.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
