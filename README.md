@@ -9,7 +9,7 @@
   </a>
 </p>
 
-7- :mortar_board: I hold a `Higher National Diploma` in `Multiplatform Application Development`.
+- :mortar_board: I hold a `Higher National Diploma` in `Multiplatform Application Development`.
 - :briefcase: Currently doing my `internship` at `Stemdo` as part of the `DevOps` team.
 - :wrench: Learning to automate `CI/CD pipelines`, manage `infrastructure as code`, and participate in continuous `deployment workflows`.
 - :whale: Getting hands-on experience with tools like `Docker`, `Kubernetes`, `GitHub Actions`, and `Terraform`.
