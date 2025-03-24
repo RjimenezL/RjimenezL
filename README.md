@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  <b>Hi, all</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18CBF7&background=10FFBE00&width=500&lines=Hey+there!!+I+am+Rub%C3%A9n+Jim%C3%A9nez!!" alt="Typing SVG" />
+  </a>
+</p>
 
 <!--
 **RjimenezL/RjimenezL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
